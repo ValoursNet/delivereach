@@ -1,0 +1,14 @@
+@font-face {
+  font-family: "m6x11";
+  src: url("./assets/m6x11.ttf");
+}
+
+#root {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100vw;
+  overflow: "hidden";
+  font-family: "m6x11";
+  text-transform: uppercase;
+}

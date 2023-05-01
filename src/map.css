@@ -1,0 +1,16 @@
+.react-flow__handle {
+    border-radius: 0;
+    border-width: 2px;
+}
+
+.react-flow__pane {
+    cursor: default;
+}
+
+.react-flow__handle.connectionindicator {
+    cursor: pointer;
+}
+
+.react-flow__node-default {
+    border: none;
+}
